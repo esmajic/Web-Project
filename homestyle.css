@@ -1,0 +1,20 @@
+header h1{
+font-size: 24 px;
+font-style: italic;
+color: #990000;
+margin: 10px 30 px;
+width: 1500px;
+heihgt: 200px;
+border: 1px solid #990000;
+}
+p{
+text-align: justify;
+width: 600px;
+}
+#main_aside {
+float: right;
+width: 300px;
+margin: 20px 20px;
+padding: 15px;
+background: #CCCCCC;
+}
