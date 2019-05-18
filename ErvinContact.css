@@ -1,5 +1,5 @@
 *{
-background: #CCCCCC;
+background: #808080;
 }
 #wrapper{
 width: 1000px;
@@ -8,11 +8,11 @@ text-align: left;
 }
 h1 {
 font: bold 40px arial;
-background: #CCCCCC;
+background: #808080;
 }
 p, li {
 font: 20px arial;
 margin: 10px;
 padding: 5px 30px;
-background: #CCCCCC;
+background: #808080;
 }
