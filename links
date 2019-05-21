@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>This is Ervin's links page</title>
+<link rel="stylesheet" href="C:\Users\38761\Desktop\Web Projects\web 2\css\ErvinLinks.css">
+</head>
+<body>
+<div id="wrapper">
+<header>
+<h1>Links</h1>	
+<ul>
+<li><a href="C:\Users\38761\Desktop\Web Projects\web 2\photos&pdf\CV-ESP-Europass-20181108-Smajic-EN.pdf">my CV</a></li>
+<li><a href="https://github.com/esmajic?tab=repositories">my projects on GitHub (esmajic)</a></li>
+</ul>
+<figure>
+<img src="C:\Users\38761\Desktop\Web Projects\web 2\photos&pdf\pillarpier.jpg" alt="pier">
+</figure>
+<ul>
+</header>
+<footer>
+<ul>
+<li><a href="C:\Users\38761\Desktop\Web Projects\web 2\index.html">home</a></li>
+</ul>
+Copyright 2019.
+</footer>
+</div>
+</body>
+</html>
